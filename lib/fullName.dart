@@ -2,7 +2,7 @@
 import 'package:flutter/material.dart';
 
 class FullName extends StatefulWidget {
-  const FullName({super.key});
+   FullName({super.key});
 
   @override
   State<FullName> createState() => _FullNameState();
